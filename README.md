@@ -1,4 +1,4 @@
-# Shahid-2
+# Shahid
 It is basic even odd program.
 
 #include <stdio.h>
